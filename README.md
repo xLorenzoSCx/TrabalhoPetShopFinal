@@ -27,7 +27,7 @@ Os exercícios foram desenvolvidos para consolidar o aprendizado e podem ser uti
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/xLorenzoSCx/TrabalhoPetShopFinal)
    ```
 2. **Abra o projeto em sua IDE favorita**.
 3. **Compile e execute** os arquivos `.java` conforme necessário.
